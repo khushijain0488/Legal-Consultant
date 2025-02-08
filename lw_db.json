@@ -1,0 +1,202 @@
+[
+    {
+        "id": "lw101",
+        "name": "Lawyer 1",
+        "specialization": "Specialization 1",
+        "experience_year": 5,
+        "contact": {
+            "email": "lawyer1@example.com",
+            "phone": "+1-202-555-0101"
+        }
+    },
+    {
+        "id": "lw102",
+        "name": "Lawyer 2",
+        "specialization": "Specialization 2",
+        "experience_year": 6,
+        "contact": {
+            "email": "lawyer2@example.com",
+            "phone": "+1-202-555-0102"
+        }
+    },
+    {
+        "id": "lw103",
+        "name": "Lawyer 3",
+        "specialization": "Specialization 3",
+        "experience_year": 7,
+        "contact": {
+            "email": "lawyer3@example.com",
+            "phone": "+1-202-555-0103"
+        }
+    },
+    {
+        "id": "lw104",
+        "name": "Lawyer 4",
+        "specialization": "Specialization 4",
+        "experience_year": 8,
+        "contact": {
+            "email": "lawyer4@example.com",
+            "phone": "+1-202-555-0104"
+        }
+    },
+    {
+        "id": "lw105",
+        "name": "Lawyer 5",
+        "specialization": "Specialization 5",
+        "experience_year": 9,
+        "contact": {
+            "email": "lawyer5@example.com",
+            "phone": "+1-202-555-0105"
+        }
+    },
+    {
+        "id": "lw106",
+        "name": "Lawyer 6",
+        "specialization": "Specialization 1",
+        "experience_year": 10,
+        "contact": {
+            "email": "lawyer6@example.com",
+            "phone": "+1-202-555-0106"
+        }
+    },
+    {
+        "id": "lw107",
+        "name": "Lawyer 7",
+        "specialization": "Specialization 2",
+        "experience_year": 11,
+        "contact": {
+            "email": "lawyer7@example.com",
+            "phone": "+1-202-555-0107"
+        }
+    },
+    {
+        "id": "lw108",
+        "name": "Lawyer 8",
+        "specialization": "Specialization 3",
+        "experience_year": 12,
+        "contact": {
+            "email": "lawyer8@example.com",
+            "phone": "+1-202-555-0108"
+        }
+    },
+    {
+        "id": "lw109",
+        "name": "Lawyer 9",
+        "specialization": "Specialization 4",
+        "experience_year": 13,
+        "contact": {
+            "email": "lawyer9@example.com",
+            "phone": "+1-202-555-0109"
+        }
+    },
+    {
+        "id": "lw110",
+        "name": "Lawyer 10",
+        "specialization": "Specialization 5",
+        "experience_year": 14,
+        "contact": {
+            "email": "lawyer10@example.com",
+            "phone": "+1-202-555-0110"
+        }
+    },
+    {
+        "id": "lw111",
+        "name": "Lawyer 11",
+        "specialization": "Specialization 1",
+        "experience_year": 15,
+        "contact": {
+            "email": "lawyer11@example.com",
+            "phone": "+1-202-555-0111"
+        }
+    },
+    {
+        "id": "lw112",
+        "name": "Lawyer 12",
+        "specialization": "Specialization 2",
+        "experience_year": 16,
+        "contact": {
+            "email": "lawyer12@example.com",
+            "phone": "+1-202-555-0112"
+        }
+    },
+    {
+        "id": "lw113",
+        "name": "Lawyer 13",
+        "specialization": "Specialization 3",
+        "experience_year": 17,
+        "contact": {
+            "email": "lawyer13@example.com",
+            "phone": "+1-202-555-0113"
+        }
+    },
+    {
+        "id": "lw114",
+        "name": "Lawyer 14",
+        "specialization": "Specialization 4",
+        "experience_year": 18,
+        "contact": {
+            "email": "lawyer14@example.com",
+            "phone": "+1-202-555-0114"
+        }
+    },
+    {
+        "id": "lw115",
+        "name": "Lawyer 15",
+        "specialization": "Specialization 5",
+        "experience_year": 19,
+        "contact": {
+            "email": "lawyer15@example.com",
+            "phone": "+1-202-555-0115"
+        }
+    },
+    {
+        "id": "lw116",
+        "name": "Lawyer 16",
+        "specialization": "Specialization 1",
+        "experience_year": 5,
+        "contact": {
+            "email": "lawyer16@example.com",
+            "phone": "+1-202-555-0116"
+        }
+    },
+    {
+        "id": "lw117",
+        "name": "Lawyer 17",
+        "specialization": "Specialization 2",
+        "experience_year": 6,
+        "contact": {
+            "email": "lawyer17@example.com",
+            "phone": "+1-202-555-0117"
+        }
+    },
+    {
+        "id": "lw118",
+        "name": "Lawyer 18",
+        "specialization": "Specialization 3",
+        "experience_year": 7,
+        "contact": {
+            "email": "lawyer18@example.com",
+            "phone": "+1-202-555-0118"
+        }
+    },
+    {
+        "id": "lw119",
+        "name": "Lawyer 19",
+        "specialization": "Specialization 4",
+        "experience_year": 8,
+        "contact": {
+            "email": "lawyer19@example.com",
+            "phone": "+1-202-555-0119"
+        }
+    },
+    {
+        "id": "lw120",
+        "name": "Lawyer 20",
+        "specialization": "Specialization 5",
+        "experience_year": 9,
+        "contact": {
+            "email": "lawyer20@example.com",
+            "phone": "+1-202-555-0120"
+        }
+    }
+]
