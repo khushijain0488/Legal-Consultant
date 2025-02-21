@@ -1,202 +1,202 @@
 [
     {
         "id": "lw101",
-        "name": "Lawyer 1",
-        "specialization": "Specialization 1",
+        "name": "Ayush Jain",
+        "specialization": "Family",
         "experience_year": 5,
         "contact": {
-            "email": "lawyer1@example.com",
-            "phone": "+1-202-555-0101"
+            "email": "ayush@gmail.com",
+            "phone": "6524369874"
         }
     },
     {
         "id": "lw102",
-        "name": "Lawyer 2",
-        "specialization": "Specialization 2",
+        "name": "Yash Raj",
+        "specialization": "Murder",
         "experience_year": 6,
         "contact": {
-            "email": "lawyer2@example.com",
-            "phone": "+1-202-555-0102"
+            "email": "yash@gmail.com",
+            "phone": "7593162489"
         }
     },
     {
         "id": "lw103",
-        "name": "Lawyer 3",
-        "specialization": "Specialization 3",
+        "name": "Souarv Waliya",
+        "specialization": "Corporate",
         "experience_year": 7,
         "contact": {
-            "email": "lawyer3@example.com",
-            "phone": "+1-202-555-0103"
+            "email": "sourav@gmail.com",
+            "phone": "7894561237"
         }
     },
     {
         "id": "lw104",
-        "name": "Lawyer 4",
-        "specialization": "Specialization 4",
+        "name": "Ahmed Ayaz",
+        "specialization": "Immigration",
         "experience_year": 8,
         "contact": {
-            "email": "lawyer4@example.com",
-            "phone": "+1-202-555-0104"
+            "email": "ayaz@gmail.com",
+            "phone": "75912463587"
         }
     },
     {
         "id": "lw105",
-        "name": "Lawyer 5",
-        "specialization": "Specialization 5",
+        "name": "Shiv",
+        "specialization": "Real Estate",
         "experience_year": 9,
         "contact": {
-            "email": "lawyer5@example.com",
-            "phone": "+1-202-555-0105"
+            "email": "shiv@gmail.com",
+            "phone": "6564798563"
         }
     },
     {
         "id": "lw106",
-        "name": "Lawyer 6",
-        "specialization": "Specialization 1",
+        "name": "Ronak",
+        "specialization": "Bankruptcy",
         "experience_year": 10,
         "contact": {
-            "email": "lawyer6@example.com",
-            "phone": "+1-202-555-0106"
+            "email": "ronak@gmail.com",
+            "phone": "9625472535"
         }
     },
     {
         "id": "lw107",
-        "name": "Lawyer 7",
-        "specialization": "Specialization 2",
+        "name": "Khushi Jain",
+        "specialization": "Corporate",
         "experience_year": 11,
         "contact": {
-            "email": "lawyer7@example.com",
-            "phone": "+1-202-555-0107"
+            "email": "khushi7@gmail.com",
+            "phone": "6254718596"
         }
     },
     {
         "id": "lw108",
-        "name": "Lawyer 8",
-        "specialization": "Specialization 3",
+        "name": "Harsh Chaudhary",
+        "specialization": "Civil Litigation",
         "experience_year": 12,
         "contact": {
             "email": "lawyer8@example.com",
-            "phone": "+1-202-555-0108"
+            "phone": "8246748596"
         }
     },
     {
         "id": "lw109",
-        "name": "Lawyer 9",
-        "specialization": "Specialization 4",
+        "name": "Vipul Thakur",
+        "specialization": "Entertainment",
         "experience_year": 13,
         "contact": {
-            "email": "lawyer9@example.com",
-            "phone": "+1-202-555-0109"
+            "email": "Vipul9@gmail.com",
+            "phone": "7539142682"
         }
     },
     {
         "id": "lw110",
-        "name": "Lawyer 10",
-        "specialization": "Specialization 5",
+        "name": "Ankit Pradhan",
+        "specialization": "Tax",
         "experience_year": 14,
         "contact": {
-            "email": "lawyer10@example.com",
-            "phone": "+1-202-555-0110"
+            "email": "ankit879@gmail.com",
+            "phone": "6241537895"
         }
     },
     {
         "id": "lw111",
-        "name": "Lawyer 11",
-        "specialization": "Specialization 1",
+        "name": "Lalit Chabra",
+        "specialization": "Real Estate",
         "experience_year": 15,
         "contact": {
-            "email": "lawyer11@example.com",
-            "phone": "+1-202-555-0111"
+            "email": "lalit11@gmail.com",
+            "phone": "9976876123"
         }
     },
     {
         "id": "lw112",
-        "name": "Lawyer 12",
-        "specialization": "Specialization 2",
+        "name": "Isha Rathor",
+        "specialization": "Family",
         "experience_year": 16,
         "contact": {
-            "email": "lawyer12@example.com",
-            "phone": "+1-202-555-0112"
+            "email": "ishapagal@gamil.com",
+            "phone": "8865897532"
         }
     },
     {
         "id": "lw113",
-        "name": "Lawyer 13",
-        "specialization": "Specialization 3",
+        "name": "Suzan",
+        "specialization": "Criminal Defence",
         "experience_year": 17,
         "contact": {
-            "email": "lawyer13@example.com",
-            "phone": "+1-202-555-0113"
+            "email": "lawyer13@gmail.com",
+            "phone": "9685743269"
         }
     },
     {
         "id": "lw114",
-        "name": "Lawyer 14",
-        "specialization": "Specialization 4",
+        "name": "Yash Gurjar",
+        "specialization": "Intellectual Property",
         "experience_year": 18,
         "contact": {
-            "email": "lawyer14@example.com",
-            "phone": "+1-202-555-0114"
+            "email": "ygurjar14@gmail.com",
+            "phone": "6684759213"
         }
     },
     {
         "id": "lw115",
-        "name": "Lawyer 15",
-        "specialization": "Specialization 5",
+        "name": "Megh Multani",
+        "specialization": "Immigration",
         "experience_year": 19,
         "contact": {
-            "email": "lawyer15@example.com",
-            "phone": "+1-202-555-0115"
+            "email": "multani15@gmail.com",
+            "phone": "9557279137"
         }
     },
     {
         "id": "lw116",
-        "name": "Lawyer 16",
-        "specialization": "Specialization 1",
+        "name": "Shreya dhillon",
+        "specialization": "Estate Planning",
         "experience_year": 5,
         "contact": {
-            "email": "lawyer16@example.com",
-            "phone": "+1-202-555-0116"
+            "email": "shreya16@gmail.com",
+            "phone": "7878847596"
         }
     },
     {
         "id": "lw117",
-        "name": "Lawyer 17",
-        "specialization": "Specialization 2",
+        "name": "Deepanshu Rawat",
+        "specialization": "Family",
         "experience_year": 6,
         "contact": {
-            "email": "lawyer17@example.com",
-            "phone": "+1-202-555-0117"
+            "email": "Rawat17@gmail.com",
+            "phone": "6254718596"
         }
     },
     {
         "id": "lw118",
-        "name": "Lawyer 18",
-        "specialization": "Specialization 3",
+        "name": "Ketan Yadav",
+        "specialization": "Estate Planning",
         "experience_year": 7,
         "contact": {
-            "email": "lawyer18@example.com",
-            "phone": "+1-202-555-0118"
+            "email": "ketan18@gmail.com",
+            "phone": "9517362489"
         }
     },
     {
         "id": "lw119",
-        "name": "Lawyer 19",
-        "specialization": "Specialization 4",
+        "name": "Tanay Mishra",
+        "specialization": "Divorce",
         "experience_year": 8,
         "contact": {
-            "email": "lawyer19@example.com",
-            "phone": "+1-202-555-0119"
+            "email": "tanay19@gmail.com",
+            "phone": "9856321247"
         }
     },
     {
         "id": "lw120",
-        "name": "Lawyer 20",
-        "specialization": "Specialization 5",
+        "name": "Lakshey Maurya",
+        "specialization": "Bankruptcy",
         "experience_year": 9,
         "contact": {
-            "email": "lawyer20@example.com",
-            "phone": "+1-202-555-0120"
+            "email": "lakshey20@gmail.com",
+            "phone": "8862471539"
         }
     }
 ]
